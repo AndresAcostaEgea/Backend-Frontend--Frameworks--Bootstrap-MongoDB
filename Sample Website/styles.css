@@ -1,0 +1,204 @@
+.brand{
+  width: 5%;
+  padding-bottom: 3%;
+}
+
+.brandText {
+  font-family: 'Syncopate', sans-serif;;
+  font-size: 2rem;
+  color: #FF4C29;
+  text-decoration: none;
+  padding-top: 0.3%;
+}
+
+.brandText:hover{
+  color: #FF4C29;
+}
+
+.container-fluid {
+  background-color: #082032;
+}
+
+#navText{
+  color: #FF4C29;
+  font-size: 1.3rem;
+  font-family: 'Kufam', sans-serif;
+}
+
+.bodycolor{
+  background-color: #F3F0D7;
+}
+
+#navbarPadding{
+  padding: 0rem;
+}
+
+.footer {
+  background-color: #082032;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.main{
+  height: 95rem;
+}
+
+.my-4 {
+  margin-bottom: 0rem !important;
+}
+
+.py-3 {
+    padding-top: 0.1rem!important;
+    padding-bottom: 0.1rem!important;
+}
+
+.page{
+  background-image: -webkit-linear-gradient(top left, #EFEFEF 50%, #FFEDDA 50%);
+}
+
+.jImage{
+  background-image: url("wallpaper.jpeg");
+  background-position-y: center;
+  background-size: cover;
+  height: 550px;
+}
+
+.headingText{
+  color:#FF4C29;
+  text-align: justify;
+  font-family:'Montserrat', sans-serif;
+  font-size: 3.3rem;
+}
+
+.whiteText{
+  font-size: 1.1rem !important;
+  color:#FF4C29;
+  text-align: justify;
+  font-family: 'Kufam', sans-serif;
+  width: 45%;
+}
+
+.footerText{
+  color:#FF4C29;
+}
+
+.text-muted {
+    color: #FF4C29!important;
+}
+
+img{
+  width: 35rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:2rem;
+}
+
+.justified{
+  text-align: justify;
+  margin-top: 2%;
+}
+
+.btnColor{
+  background-color: #DA0037;
+  border-color: #DA0037;
+  color: #fff;
+}
+
+.formButton{
+  background-color: #FF4C29;
+  border-color: #FF4C29;
+  color: #fff;
+}
+
+.formButton:hover{
+  background-color: #DA0037;
+  border-color: #DA0037;
+  color: #000;
+}
+
+.btnColor:hover{
+  background-color: #FF4C29;
+}
+
+.leftText {
+  position: relative;
+}
+
+.imgOne{
+  width: 100%;
+  position: relative;
+  right:5%;
+}
+
+.imgTwo{
+  width: 100%;
+  position: relative;
+  right: 43%;
+}
+
+img{
+  filter: drop-shadow(5px 5px 10px gray);
+}
+
+.textOne{
+  position: relative;
+  right: 11%;
+  padding-top: 9%;
+  color: #191919;
+}
+
+.textTwo{
+  position: relative;
+  left: 11%;
+  padding-top: 13%;
+  color: #191919;
+}
+
+.wide{
+  width: 100%;
+  background-color: #082032;
+}
+
+.padRight{
+  position: relative;
+  left: 1%;
+}
+
+.padLeft{
+  position: relative;
+  right: 1%;
+}
+
+.fontFoot{
+  font-family: 'Kufam', sans-serif;
+}
+
+#copyright{
+  color: #EEF2FF !important;
+  font-family:sans-serif;
+}
+
+.center{
+  text-align: center;
+  width: 90%;
+}
+
+p{
+  width:90%;
+}
+
+.rowSize{
+  width: 50%;
+}
+
+/* .formPosition{
+  padding-left: 2.5%
+} */
+
+h2{
+  font-family: 'Yellowtail', cursive;
+  font-size: 250%;
+  color:#FF4C29;
+}
